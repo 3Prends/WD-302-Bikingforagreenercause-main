@@ -1,0 +1,31 @@
+.p1{
+    float: left;
+    font-size: 20px;
+    padding-left: 14%;
+    color: #bdd2b6;
+    padding-top: 2%;
+}
+.p2{
+    float: right;
+    font-size: 20px;
+    padding-right: 15%;
+    text-align: left;
+    color: #bdd2b6;
+    padding-top: 2%;
+}
+.title{
+    float: left;
+    padding-top: 5%;
+    padding-left: 14%;
+    font-size: 25px;
+    color: #bdd2b6;
+    text-shadow: 1px 1px #c6ffc1;
+}
+.title2{
+    float: right;
+    padding-top: 5%;
+    padding-right: 15%;
+    font-size: 25px;
+    color: #bdd2b6;
+    text-shadow: 1px 1px #c6ffc1;
+}
